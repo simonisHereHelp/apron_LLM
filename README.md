@@ -31,11 +31,14 @@ Each article is parsed and saved in **Markdown (`.md`) format**, designed for co
 ---
 
 ## 🧰 ApronLLM vs Magic Apron
-
 This project supports:
-- Retrieval-augmented response generation for DIY/home repair use cases.
-- Instructional model fine-tuning using structured, real-world articles.
-- Deployment of a personalized assistant grounded in Home Depot-style content.
+
+* **LLM augmented step-by-step guides** for DIY and home repair scenarios.
+
+* **Grounding responses to in-store SKUs**, making suggestions actionable with direct ties to Home Depot inventory.
+
+* **Formatting outputs with relevant image links**, recognizing that visual content helps users complete tasks and boosts engagement—just like in retail, where images drive sales.
+
 
 ![Magic Apron vs. ApronLLM](./misc/apronLLM-vs-mApron.png)
 
@@ -65,6 +68,15 @@ This project supports:
 
 `Magic Apron`, `Home Depot`, `DIYer`, `Markdown`, `LLM`, `LLaMA3`, `LoRA`, `content extraction`, `RAG`, `Jetson Nano`, `Docusaurus`
 
----
 
-> This is a learning-focused exploration of open-source LLM development in a real-world domain. Feedback and contributions welcome!
+
+Simon Chen
+
+store associate @HD store #8949, Poway, California
+
+🔗 LinkedIn: https://www.linkedin.com/in/hsienchen/
+
+Career Focus:
+Patient engagement | Physician education | Customer experience SaaS
+
+(858)733-1029 presenter.simon@gmail.com
