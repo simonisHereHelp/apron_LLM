@@ -1,6 +1,9 @@
 # 🛠️ ApronLLM: An Open Take on Magic Apron
 
-**ApronLLM** is a passion project sparked by **Magic Apron** — Home Depot’s 2025 launch into DIY-focused language models. This initiative seeks to reimagine and extend that concept using open-source tools like **LLaMA 3**, combining **hybrid RAG** retrieval with **domain-specific fine-tuning** to serve DIY enthusiasts.
+**ApronLLM** is a passion project sparked by **Magic Apron** — Home Depot’s 2025 launch into DIY-focused language models. 
+
+This project reimagines the Magic Apron concept by combining smart retrieval and fine-tuning to generate responses grounded in store SKUs, with clear formatting and image links to support DIY tasks.
+
 
 ![Magic Apron](./misc/MagicApronScreen.png)
 ---
