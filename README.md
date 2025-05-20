@@ -64,6 +64,13 @@ This project supports:
 
 ---
 
+alternative HF dataset
+
+Ukhushn/home-depot
+74K rows
+
+Ukhushn/DistilHomeDepot-finetuned
+
 ## 🔑 Keywords
 
 `Magic Apron`, `Home Depot`, `DIYer`, `Markdown`, `LLM`, `LLaMA3`, `LoRA`, `content extraction`, `RAG`, `Jetson Nano`, `Docusaurus`
